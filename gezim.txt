@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>GitHub</title>
+</head>
+
+
+css 
+html
+<body>
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+javascript
+php
+mysql
+gezim
+ina 
+greqi
+prillo
+
+gezim
+
+
+
+
+</body>
+</html>
